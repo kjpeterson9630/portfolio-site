@@ -89,6 +89,7 @@ button:focus {
 .pad_top {
   padding-top: 120px; }
 
+/*TODO: adding top padding for smallest mobile, specifically for portfolio area on home */
 .pad_bt {
   padding-bottom: 120px; }
 
