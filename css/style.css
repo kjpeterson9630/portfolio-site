@@ -127,6 +127,11 @@ button:focus {
     color: #777777;
     margin-bottom: 0px; }
 
+@media (max-width: 767px) {
+  .main_title mobile_padding_custom {
+    padding-top: 5em;
+  }
+}
 /* End Main Title Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
