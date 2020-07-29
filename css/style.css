@@ -128,7 +128,7 @@ button:focus {
     margin-bottom: 0px; }
 
 @media (max-width: 767px) {
-  .main_title .mobile_padding_custom {
+  .mobile_padding_custom {
     padding-top: 5em;
   }
 }
